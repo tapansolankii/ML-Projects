@@ -1,4 +1,4 @@
-<img width=100 src="http://www.pontneo.com/ctf/movies/images/movielenslogo.jpg"/>
+
 
 #### Movie recommendation system using collaborative filtering
 
