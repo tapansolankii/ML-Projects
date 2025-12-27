@@ -6,4 +6,3 @@ This project aimed to build a movie recommendation mechanism on top of the [Movi
 
 Tags: *Movies, Recommender System, Collaborative Filtering, User Preferences, Embeddings, Neural Networks, Python*
 
-[Here is the Jupyter Notebook](https://nbviewer.jupyter.org/github/polakowo/mlprojects/blob/master/movielens-recommendation/movielens-recommendation.ipynb)
