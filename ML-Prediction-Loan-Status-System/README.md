@@ -1,4 +1,4 @@
-# Machine Learning-Based Loan Default Prediction System
+# Machine Learning-Based Prediction System
 
 ## Introduction
 
@@ -7,11 +7,6 @@ Welcome to the repository for my advanced machine learning project focused on pr
 <img width="1331" height="959" alt="image" src="https://github.com/user-attachments/assets/37e579d2-0f14-45eb-aa17-db6b6dc18c4a" />
 <img width="1336" height="942" alt="image" src="https://github.com/user-attachments/assets/c9d3f5b6-66f0-4e72-ac30-d939c4887733" />
 
-
-
-## Project Overview
-
-This project encompasses a full cycle of data handling, model development, and deployment, leveraging Azure's cloud capabilities to enhance predictive accuracy and operational efficiency.
 
 ## Data Handling and Initial Analysis
 
@@ -44,36 +39,3 @@ Developed a Flask web application for real-time data input and prediction output
 * **Real-Time Predictions:** Users can input data and receive predictions instantly.
 * **High Accuracy and Precision:** Ensures reliable predictions to assist financial decision-making.
 * **Scalable Infrastructure:** Built on Azure to efficiently handle increasing data and usage scales.
-  
-## Technologies Used
-
-* **Microsoft Azure:** For deploying and managing my application.
-* **Docker:** For creating isolated environments to replicate production settings.
-* **Flask:** For backend development of my web application.
-* **GitHub Actions:** For CI/CD, ensuring seamless updates and deployments.
-  
-## Getting Started
-
-To get started with this project, please refer to the installation guide and follow the instructions to set up your environment.
-
-## Installation
-
-**Detailed steps to set up the project locally:**
-
-* **Clone the repository:**
-
-```
-git clone https://github.com/Abhi0323/Machine-Learning-Based-Loan-Default-Early-Warning-System
-```
-
-* **Navigate to the project directory and install the dependencies:**
-
-```
-cd Machine-Learning-Based-Loan-Default-Early-Warning-System
-pip install -r requirements.txt
-```
-* **Run the Flask application:**
-
-```
-python app.py
-```
