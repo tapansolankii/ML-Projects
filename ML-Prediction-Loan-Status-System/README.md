@@ -4,7 +4,9 @@
 
 Welcome to the repository for my advanced machine learning project focused on predicting loan defaults. This project utilizes a robust, scalable architecture deployed on Microsoft Azure to offer precise default predictions, potentially saving financial institutions from significant losses due to risky exposures.
 
-![ezgif com-animated-gif-maker (5)](https://github.com/Abhi0323/Machine-Learning-Based-Loan-Default-Early-Warning-System/assets/112967999/e8630dcf-d111-4cf9-be8c-c2db53066703)
+<img width="1331" height="959" alt="image" src="https://github.com/user-attachments/assets/37e579d2-0f14-45eb-aa17-db6b6dc18c4a" />
+<img width="1336" height="942" alt="image" src="https://github.com/user-attachments/assets/c9d3f5b6-66f0-4e72-ac30-d939c4887733" />
+
 
 
 ## Project Overview
